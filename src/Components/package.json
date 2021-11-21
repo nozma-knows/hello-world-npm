@@ -1,0 +1,14 @@
+{
+  "name": "helloworld-nozma-knows",
+  "version": "1.0.0",
+  "description": "Hello World example package",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
